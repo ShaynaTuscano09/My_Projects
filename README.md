@@ -1,6 +1,7 @@
 # My_Projects
 <br>
-Movie Recomendation System:
+Machine Learning Projects
+(1)Movie Recomendation System:
 In this  Project we use <b>content based recommendation system</b>
 
 The following steps are taken to build this project :
@@ -15,3 +16,7 @@ The following steps are taken to build this project :
 	  We add a tags column in the data frame by concatenating  overview , genres , keywords , cast, crew 	columns.
 3. Convert the given text to vectors 
 4.Use cosine similarity to calculate the distance
+
+
+(2)Stress Predict 
+In this project the data preprocessing steps were applied to the dataset and two classifiers namely Decision tree and Random forest are used to predict if the individual has stress or not and a detailed comparison is done to find the best model to solve this problem.
