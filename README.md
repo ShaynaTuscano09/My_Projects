@@ -3,7 +3,7 @@
 Machine Learning Projects
 
 <br>
-(1)Movie Recomendation System:
+(1)<u>Movie Recomendation System<u/>:
 In this  Project we use <b>content based recommendation system</b>
 
 The following steps are taken to build this project :
@@ -20,5 +20,5 @@ The following steps are taken to build this project :
 4.Use cosine similarity to calculate the distance
 <br>
 
-(2)Stress Predict 
+(2)<u>Machine Learning Project on Stress Detection<u/>:
 In this project the data preprocessing steps were applied to the dataset and two classifiers namely Decision tree and Random forest are used to predict if the individual has stress or not and a detailed comparison is done to find the best model to solve this problem.
